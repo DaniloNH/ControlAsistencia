@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\asusz\\onedrive\\escritorio\\controlasistencia\\controldeasistencia\\controldeasistencia\\vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\asusz\\onedrive\\escritorio\\controlasistencia\\controldeasistencia\\controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\controldeasistencia\\vista\\selecciontrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\selecciontrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\controldeasistencia\\vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\asusz\\onedrive\\escritorio\\controlasistencia\\controldeasistencia\\controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\asusz\\onedrive\\escritorio\\controlasistencia\\controldeasistencia\\controldeasistencia\\vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Form1.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:52:20.631Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Login.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Login.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:12:43.793Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Form1.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Form1.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:12:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Modelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Modelo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Modelo\\Conexion.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Modelo\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:12:11.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Personal.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Personal.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Personal.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:32:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionTrabajador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:11:57.933Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seleccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:11:56.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Personal.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Personal.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Escritorio\\ControlAsistencia\\ControlDeAsistencia\\ControlDeAsistencia\\Vista\\Personal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Personal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:11:55.806Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

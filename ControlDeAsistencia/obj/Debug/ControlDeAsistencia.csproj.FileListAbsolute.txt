@@ -1,0 +1,14 @@
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\ControlDeAsistencia.exe.config
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\ControlDeAsistencia.exe
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\bin\Debug\ControlDeAsistencia.pdb
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.csproj.AssemblyReference.cache
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Form1.resources
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Properties.Resources.resources
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.csproj.GenerateResource.cache
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.exe
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.pdb
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Vista.Seleccion.resources
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Vista.SeleccionTrabajador.resources
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Vista.Personal.resources
+C:\Users\asusz\OneDrive\Escritorio\ControlAsistencia\ControlDeAsistencia\ControlDeAsistencia\obj\Debug\ControlDeAsistencia.Vista.Login.resources

@@ -24,9 +24,9 @@ namespace ControlDeAsistencia.Vista
 
         private void btnPersonal_Click(object sender, EventArgs e)
         {
-            PersonalCRUD personal = new PersonalCRUD();
+            PersonalCRUD personalventana = new PersonalCRUD();
             this.Hide(); // ocultar formulario
-            personal.ShowDialog();
+            personalventana.ShowDialog();
             this.Show();
 
         }

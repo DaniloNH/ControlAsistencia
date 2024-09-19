@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\controlador\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\controlador\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\modelo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\vista\\selecciontrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\selecciontrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\modelo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\controlador\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\controlador\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\modelo\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|c:\\users\\lesli\\onedrive\\escritorio\\controlasistencia-main\\controldeasistencia\\modelo\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\personalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\vista\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFBB061-D6BF-423C-A9D8-7507B9F5EB8C}|ControlDeAsistencia\\ControlDeAsistencia.csproj|solutionrelative:controldeasistencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Controlador\\Entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlDeAsistencia\\Controlador\\Entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Form1.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Form1.cs",
@@ -66,7 +58,46 @@
               "RelativeToolTip": "ControlDeAsistencia\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:52:20.631Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seleccion.cs",
+              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:02:43.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seleccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Seleccion.cs",
+              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:02:41.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Personal.cs",
+              "RelativeDocumentMoniker": "ControlDeAsistencia\\Modelo\\Personal.cs",
+              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Personal.cs",
+              "RelativeToolTip": "ControlDeAsistencia\\Modelo\\Personal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:01:34.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -74,19 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Conexion.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Modelo\\Conexion.cs",
               "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Conexion.cs",
               "RelativeToolTip": "ControlDeAsistencia\\Modelo\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:08:59.622Z"
+              "WhenOpened": "2024-09-19T21:54:01.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Control.cs",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Control.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Modelo\\Control.cs",
@@ -94,100 +126,46 @@
               "RelativeToolTip": "ControlDeAsistencia\\Modelo\\Control.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:08:58.139Z"
+              "WhenOpened": "2024-09-19T21:56:59.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PersonalController.cs",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Controlador\\PersonalController.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Controlador\\PersonalController.cs",
               "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Controlador\\PersonalController.cs",
               "RelativeToolTip": "ControlDeAsistencia\\Controlador\\PersonalController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDAAAAAHAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:01:09.654Z"
+              "WhenOpened": "2024-09-19T21:53:58.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Personal.cs",
-              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Personal.cs",
-              "RelativeDocumentMoniker": "ControlDeAsistencia\\Modelo\\Personal.cs",
-              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Modelo\\Personal.cs",
-              "RelativeToolTip": "ControlDeAsistencia\\Modelo\\Personal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:00:52.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PersonalCRUD.cs",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
               "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
               "RelativeToolTip": "ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA9wDwAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAA6wDkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:32:31.818Z",
+              "WhenOpened": "2024-09-19T21:48:41.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeleccionTrabajador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs",
-              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs",
-              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlDeAsistencia\\Vista\\SeleccionTrabajador.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:11:57.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "PersonalCRUD.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
               "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\PersonalCRUD.cs",
               "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\PersonalCRUD.cs [Dise\u00F1o]",
               "RelativeToolTip": "ControlDeAsistencia\\Vista\\PersonalCRUD.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:11:55.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Form1.cs",
-              "RelativeDocumentMoniker": "ControlDeAsistencia\\Form1.cs",
-              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Form1.cs",
-              "RelativeToolTip": "ControlDeAsistencia\\Form1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T07:12:49.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Seleccion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs",
-              "RelativeDocumentMoniker": "ControlDeAsistencia\\Vista\\Seleccion.cs",
-              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlDeAsistencia\\Vista\\Seleccion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:11:56.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Entidad.cs",
-              "DocumentMoniker": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Controlador\\Entidad.cs",
-              "RelativeDocumentMoniker": "ControlDeAsistencia\\Controlador\\Entidad.cs",
-              "ToolTip": "C:\\Users\\lesli\\OneDrive\\Escritorio\\ControlAsistencia-main\\ControlDeAsistencia\\Controlador\\Entidad.cs",
-              "RelativeToolTip": "ControlDeAsistencia\\Controlador\\Entidad.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA2wB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:50:01.971Z"
+              "WhenOpened": "2024-09-19T21:48:38.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

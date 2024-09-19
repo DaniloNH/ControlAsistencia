@@ -29,14 +29,7 @@ namespace ControlDeAsistencia.Vista
             MostrarPersonal();
         }
 
-        // Metodo Mostrar
-        
-        public void MostrarPersonal()
-        {
-            var personal = dbContext.Personal.ToList();
-            dataGridView1.DataSource = personal;
-        }
-
+       
         private void button4_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -50,7 +43,7 @@ namespace ControlDeAsistencia.Vista
         //Metodo Agregar
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            PersonalCRUD nuevoPersonal = new PersonalCRUD()
+            Personal nuevoPersonal = new Personal()
             {
                 Nombre = txtNombre.Text,
                 Apellido = txtApellido.Text,
@@ -64,6 +57,49 @@ namespace ControlDeAsistencia.Vista
             controlador.ModificarPersonal(nuevoPersonal);
             MostrarPersonal();
             MessageBox.Show("Personal Agregado Correctamente.");
+        }
+        // Metodo Mostrar
+
+        public void MostrarPersonal()
+        {
+            var personal = dbContext.Personal.ToList();
+            dataGridView1.DataSource = personal;
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                var personal = dataGridView1.SelectedRows[0].DataBoundItem as Personal;
+                if (personal != null) 
+                {
+                    personal.Nombre = txtNombre.Text;
+                    personal.Apellido = txtApellido.Text;
+                    personal.Edad = int.Parse(txtEdad.Text);
+                    personal.Cargo = cbxCargo.Text;
+                    personal.Saldo = int.Parse(txtSaldo.Text);
+                    personal.Fecha = txtFecha.Text;
+
+                    controlador.ModificarPersonal(personal);
+                    MostrarPersonal();
+                }
+            }
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            // Metodo Eliminar
+
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                var personal = dataGridView1.SelectedRows[0].DataBoundItem as Personal;
+                if (personal != null)
+                {
+                    MessageBox.Show("Personal eliminado");
+                    controlador.EliminarPersonal(personal.PersonalId);
+                    MostrarPersonal();
+                }
+            }
         }
     }
 }
